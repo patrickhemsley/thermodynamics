@@ -1,0 +1,42 @@
+momemtum
+m1|u1| + m2|u2| = m1|v1| + m2|v2| [a]
+
+energy
+0.5 * m1.u1^2 + 0.5 * m2.u2^2 = 0.5 * m1.v1^2 + 0.5 * m2.v2^2
+so
+m1.u1^2 + m2.u2^2 = m1.v1^2 + m2.v2^2
+so
+m1(v1^2 - u1^2) = m2(u2^2 - v2^2)
+m1(v1-u1)(v1+u1) = m2(u2-v2)(u2+v2) [c]
+
+
+
+
+dividing energy [c] by momentum [b] gives
+(v1+u1) = (u2+v2)
+or
+v1-v2 = u2 - u1
+
+v2 = u1-u2+v1
+
+
+
+m1|u1| + m2|u2| = m1|v1| + m2|v2| [a]
+v2 = u1-u2+v1
+m1|u1| + m2|u2| = m1|v1| + m2|u1-u2+v1| 
+
+k = m1|u1| + m2|u2|
+
+k^2 = m1^2.v1^2 + 2.m1|v1|.m2|u1-u2+v1| + m2^2.(u1-u2+v1)^2
+
+if v2 > 0 and v1 > 0 then
+k^2 = m1^2.v1^2 + 2.m1.v1.m2(u1-u2+v1) + m2^2.(u1-u2+v1)^2
+  TODO
+
+if v2 > 0 and v1 < 0 then
+
+if v2 < 0 and v1 > 0 then
+
+if v2 < 0 and v1 < 0 then
+
+is sign of v1 and v2 determined by sign of u1 and u2?
