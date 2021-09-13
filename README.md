@@ -1,1 +1,1 @@
-Python project to explore phase transitions (abandoned)
+Python project to model phase transitions (abandoned)
