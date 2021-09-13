@@ -1,4 +1,1 @@
-repo1
-=====
-
-My first repository
+Python project to explore phase transitions (abandoned)
